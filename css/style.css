@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+/* General */
+section {
+    border: 2px dashed darkorange;
+}
+
 /*? Header */
 nav {
     height: 80px;
@@ -37,3 +42,15 @@ nav {
 /*! Main */
 
 /* Section Portfolio */
+.cs-title-portfolio {
+    border: 2px solid violet;
+}
+
+.cs-row {
+    border: 1px dashed darkblue;
+}
+
+.cs-row .col {
+    border: 2px solid greenyellow;
+    height: 250px;
+}
