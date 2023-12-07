@@ -54,3 +54,16 @@ nav {
     border: 2px solid greenyellow;
     height: 250px;
 }
+
+/* Section About */
+#about {
+    background-color: #1abc9c;
+}
+
+.cs-title-about {
+    border: 2px solid violet;
+}
+
+.cs-button-about {
+    border: 2px solid dodgerblue;
+}
