@@ -11,7 +11,7 @@ nav {
     background-color: #2c3e50;
 }
 
-.jumbotron {
+.cs-jumbotron {
     height: 600px;
     background-color: #1abc9c;
 }
@@ -27,4 +27,9 @@ nav {
 
 .cs-nav-right {
     background-color: pink;
+}
+
+/* Jumbotron */
+.cs-jumbotron-content {
+    border: 2px solid black;
 }
