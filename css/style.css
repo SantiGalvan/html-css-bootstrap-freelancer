@@ -37,6 +37,7 @@ nav {
 /* Jumbotron */
 .cs-jumbotron-content {
     border: 2px solid black;
+    color: white;
 }
 
 /*! Main */
@@ -58,6 +59,7 @@ nav {
 /* Section About */
 #about {
     background-color: #1abc9c;
+    color: white;
 }
 
 .cs-title-about {
