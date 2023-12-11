@@ -63,17 +63,14 @@ nav {
 }
 
 /* Section Form */
-.cs-title-form {
-    border: 2px solid violet;
+#form .form-control {
+    border-width: 0 0 1px 0;
+    border-radius: 0;
+    padding-left: 0;
 }
 
-.cs-content-form {
-    border: 2px solid sienna;
-    height: 300px;
-}
-
-.cs-content-button {
-    border: 2px solid dodgerblue;
+#form .form-control::placeholder {
+    color: rgb(33, 37, 41);
 }
 
 /** Footer */
