@@ -15,6 +15,25 @@ img {
     height: auto;
 }
 
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Utils */
+.cs-btn {
+    height: 40px;
+    width: 40px;
+    display: block;
+    line-height: 40px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+
 /*? Header */
 nav {
     min-height: 80px;
@@ -80,8 +99,10 @@ footer {
 }
 
 /* Footer Top */
-.footer-top {
-    border: 2px dashed white;
+.footer-top a:hover {
+    background-color: white;
+    scale: 1.3;
+    color: rgb(33, 37, 41);
 }
 
 /* Footer Bottom */
