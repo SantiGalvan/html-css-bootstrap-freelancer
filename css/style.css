@@ -56,6 +56,11 @@ nav {
     height: 250px;
 }
 
+.cs-row .col-10 {
+    border: 2px solid greenyellow;
+    height: 250px;
+}
+
 /* Section About */
 #about {
     background-color: #1abc9c;
@@ -87,11 +92,12 @@ nav {
 /** Footer */
 footer {
     color: white;
+    background-color: #3a546d;
 }
 
 /* Footer Top */
 .footer-top {
-    background-color: #3a546d;
+    border: 2px dashed white;
 }
 
 /* Footer Bottom */
